@@ -1,91 +1,53 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ivan Osipov's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ivan Osipov
+Software Developer
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+## About
+After accomplishing Bachelor of Business Administration studies and working in industry for few years, I have realised that I am interested in web development.
+I have been working as a tech-recruiter and was inspired by the industry and people working there, so I have decided to learn software development at Haaga-Helia UAS.
+Enthusiastic and open-minded web developer, excited to co-create web applications and cross platform mobile applications.
 
 ## Currently
+Working as a software developer at Futurice.
 
-Standing on the shoulders of giants
+### Role
+Full stack developer with a tilt to frontend side. 
 
-### Specialized in
+### Stack
+React, ReactNative, CSS, Jest, Redux, Webpack, NodeJS, TypeScript, AWS, GCP, Docker, Kubernetes, Prometheus
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Experience
 
+`May 2019 - now`
+__Software Developer, Futurice__
 
-### Research interests
+`August 2018 - February 2019`
+__Intern, Futurice__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`April 2015 - June 2015`
+__Recruiter, Start HQ__
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2020`
+__Haaga-Helia UAS, Helsinki__
+- Business Information Technology
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2009 - 2014`
+__Haaga-Helia UAS, Helsinki__
+- Multilingual Management assistant
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2006 - 2009`
+__Petrozavodsk State University, Petrozavodsk__
+- Measuring systems and physical electronics
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2020 -->
 
 
