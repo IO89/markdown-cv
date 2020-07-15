@@ -6,9 +6,9 @@ title: Ivan Osipov's CV
 Software Developer
 
 ## About
-After accomplishing Bachelor of Business Administration studies and working in industry for few years, I have realised that I am interested in web development.
+<p>After accomplishing Bachelor of Business Administration studies and working in industry for few years, I have realised that I am interested in web development.
 I have been working as a tech-recruiter and was inspired by the industry and people working there, so I have decided to learn software development at Haaga-Helia UAS.
-Enthusiastic and open-minded web developer, excited to co-create web applications and cross platform mobile applications.
+Enthusiastic and open-minded web developer, excited to co-create web applications and cross platform mobile applications.</p>
 
 ## Currently
 Working as a software developer at Futurice.
