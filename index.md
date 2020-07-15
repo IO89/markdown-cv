@@ -27,15 +27,15 @@ React, ReactNative, CSS, Jest, Redux, Webpack, NodeJS, TypeScript, AWS, GCP, Doc
 
 ## Experience
 
-`May 2019 - now`
+`May 2019-now`
 __Futurice__
 - Software Developer
 
-`August 2018 - February 2019`
+`Aug 2018-Feb 2019`
 __Futurice__
 - Intern
 
-`April 2015 - June 2015`
+`Apr 2015-Jun 2015`
 __Start HQ__
 - Recruiter
 
