@@ -27,22 +27,22 @@ React, ReactNative, CSS, Jest, Redux, Webpack, NodeJS, TypeScript, AWS, GCP, Doc
 
 ## Experience
 
-`May 2019-now`
+`May 2019 - now`
 __Futurice__
 - Software Developer
 
-`Aug 2018-Feb 2019`
+`August 2018 - February 2019`
 __Futurice__
 - Intern
 
-`Apr 2015-Jun 2015`
+`April 2015 - June 2015`
 __Start HQ__
 - Recruiter
 
 
 ## Education
 
-`2017-2020`
+`2017 - 2020`
 __Haaga-Helia UAS, Helsinki__
 - Business Information Technology
 
